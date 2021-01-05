@@ -1,0 +1,13 @@
+C:\Users\USER\Variables3\obj\Debug\netcoreapp3.1\Variables3.csprojAssemblyReference.cache
+C:\Users\USER\Variables3\obj\Debug\netcoreapp3.1\Variables3.AssemblyInfoInputs.cache
+C:\Users\USER\Variables3\obj\Debug\netcoreapp3.1\Variables3.AssemblyInfo.cs
+C:\Users\USER\Variables3\obj\Debug\netcoreapp3.1\Variables3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Variables3\bin\Debug\netcoreapp3.1\Variables3.exe
+C:\Users\USER\Variables3\bin\Debug\netcoreapp3.1\Variables3.deps.json
+C:\Users\USER\Variables3\bin\Debug\netcoreapp3.1\Variables3.runtimeconfig.json
+C:\Users\USER\Variables3\bin\Debug\netcoreapp3.1\Variables3.runtimeconfig.dev.json
+C:\Users\USER\Variables3\bin\Debug\netcoreapp3.1\Variables3.dll
+C:\Users\USER\Variables3\bin\Debug\netcoreapp3.1\Variables3.pdb
+C:\Users\USER\Variables3\obj\Debug\netcoreapp3.1\Variables3.dll
+C:\Users\USER\Variables3\obj\Debug\netcoreapp3.1\Variables3.pdb
+C:\Users\USER\Variables3\obj\Debug\netcoreapp3.1\Variables3.genruntimeconfig.cache
